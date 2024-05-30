@@ -7,8 +7,14 @@
 </p>
 
 
+## 💻 Coding Profiles
 
-<br/>
+- **LeetCode:** [BhavishyaKolloori](https://leetcode.com/u/BhavishyaKolloori/)
+- **GeeksforGeeks:** [bhavishyayjuv](https://www.geeksforgeeks.org/user/bhavishyayjuv/)
+- **CodingNinjas:** [bhavishyak](https://www.naukri.com/code360/profile/bhavishyak)
+- **HackerRank:** [bhavishyakolloo1](https://www.hackerrank.com/profile/bhavishyakolloo1)
+
+<br>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
@@ -20,3 +26,9 @@
   <br/>
 
 <br/><br/>
+
+
+## 🌐 Contact Me On
+
+- **LinkedIn:** [Bhavishya Kolloori](https://www.linkedin.com/in/bhavishya-kolloori/)
+- **Email:** <a href="mailto:bhavishyakolloori@gmail.com">bhavishyakolloori@gmail.com</a>

@@ -7,12 +7,14 @@
 
 
 
+
 <h2 align="center">💻 Coding Profiles</h2>
 
 - **LeetCode:** [BhavishyaKolloori](https://leetcode.com/u/BhavishyaKolloori/)
 - **GeeksforGeeks:** [bhavishyayjuv](https://www.geeksforgeeks.org/user/bhavishyayjuv/)
 - **CodingNinjas:** [bhavishyak](https://www.naukri.com/code360/profile/bhavishyak)
 - **HackerRank:** [bhavishyakolloo1](https://www.hackerrank.com/profile/bhavishyakolloo1)
+- **InterviewBit:** [bhavishya2323](https://www.interviewbit.com/profile/bhavishya2323/)
 
 
 <h2 align="center"> ⚡ Current Stats ⚡</h2>

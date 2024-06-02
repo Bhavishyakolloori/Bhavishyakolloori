@@ -11,6 +11,7 @@
 <h2 align="center">💻 Coding Profiles</h2>
 
 - **LeetCode:** [BhavishyaKolloori](https://leetcode.com/u/BhavishyaKolloori/)
+- **CodeChef:** [bhavishya2004](https://www.codechef.com/users/bhavishya2004)
 - **GeeksforGeeks:** [bhavishyayjuv](https://www.geeksforgeeks.org/user/bhavishyayjuv/)
 - **CodingNinjas:** [bhavishyak](https://www.naukri.com/code360/profile/bhavishyak)
 - **HackerRank:** [bhavishyakolloo1](https://www.hackerrank.com/profile/bhavishyakolloo1)

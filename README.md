@@ -1,21 +1,4 @@
 
-<h2 align="center"> 🏆Leetcode Info </h2>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/KBhavishya?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-
-
-
-<h2 align="center">💻 Coding Profiles</h2>
-
-- **LeetCode:** [BhavishyaKolloori](https://leetcode.com/u/KBhavishya/)
-- **CodeChef:** [bhavishya2004](https://www.codechef.com/users/bhavishya2004)
-- **GeeksforGeeks:** [bhavishyayjuv](https://www.geeksforgeeks.org/user/bhavishyayjuv/)
-- **CodingNinjas:** [bhavishyak](https://www.naukri.com/code360/profile/bhavishyak)
-- **HackerRank:** [bhavishyakolloo1](https://www.hackerrank.com/profile/bhavishyakolloo1)
-- **InterviewBit:** [bhavishya2323](https://www.interviewbit.com/profile/bhavishya2323/)
 
 
 <h2 align="center"> ⚡ Current Stats ⚡</h2>
